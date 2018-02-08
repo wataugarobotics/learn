@@ -1,2 +1,1 @@
-# learn
-Club Publications and Other Learning Resources
+# Watauga Robotics Learning Resources
